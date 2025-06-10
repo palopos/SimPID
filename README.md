@@ -34,17 +34,6 @@ O usando el archivo de requerimientos:
 pip install -r requirements.txt
 ```
 
-### Archivo requirements.txt
-
-Crea un archivo `requirements.txt` con el siguiente contenido:
-
-```
-streamlit>=1.28.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-plotly>=5.15.0
-```
-
 ## 🏃‍♂️ Ejecución
 
 Para ejecutar el simulador:
@@ -210,23 +199,13 @@ u(t) = Kp · e(t) + Ki · ∫e(t)dt + Kd · de(t)/dt
 - No incluye saturación del actuador
 - No considera ruido en las mediciones
 
-## 🤝 Contribuciones
-
-Para contribuir al proyecto:
-
-1. Fork del repositorio
-2. Crear una rama para tu feature
-3. Commit de tus cambios
-4. Push a la rama
-5. Crear un Pull Request
-
 ## 📄 Licencia
 
 Este proyecto está desarrollado con fines educativos para la asignatura de Regulación Automática en Ingeniería.
 
 ## 👥 Autor
 
-Desarrollado para el estudio de sistemas de control en Ingeniería.
+Pablo López Osorio - Profesor del Departamento de Ingeniería en Automática, Electrónica, Arquitectura y Redes de Computadores
 
 ## 📞 Soporte
 
